@@ -1,11 +1,12 @@
-Once upon a time there was a javascript class at SI. 
+Once upon a time there was a javascript class at SI.
 
 It was a really good class!
 
 They were learning about Git and Github!!
 
 
-I am adding a line. 
+I am adding a line.
 
 Then the dogs said, "Meow!" and Allan ate a pizza.
 
+"Why am I eating a pizza," Allan asked the cohort.
