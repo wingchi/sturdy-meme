@@ -7,3 +7,5 @@ They were learning about Git and Github!!
 
 I am adding a line. 
 
+Then the dogs said, "Meow!" and Allan ate a pizza.
+
