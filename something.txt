@@ -1,15 +1,16 @@
-Once upon a time there was a javascript class at SI. AND MULTIPLE SQUIRRELS.  
+Once upon a time there was a javascript class at SI. AND MULTIPLE SQUIRRELS.
 
-It was a really good class! AND THE SQUIRRELS ENJOYED IT. 
+It was a really good class! AND THE SQUIRRELS ENJOYED IT.
 
 They were learning about Git and Github!! BUT THE SQUIRRELS WERE CONFUSED
 
-
 I am adding a line. SAID THE SQUIRREL
 
-Then the dogs said, "Meow!" and Allan ate a pizza. SO THE SQUIRRELS LEFT. 
+Then the dogs said, "Meow!" and Allan ate a pizza. SO THE SQUIRRELS LEFT.
 
 The pizza had pineapples and so he spit it up.
 Allan does not like pineapples.
 Why?
-we don't know. 
+we don't know.
+
+"Why am I eating a pizza," Allan asked the cohort.
